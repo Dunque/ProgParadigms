@@ -1,0 +1,1 @@
+let f = function x -> function y -> function z -> float_of_int(x+y) +. z;;
